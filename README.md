@@ -1,6 +1,38 @@
 # Geotagged tweets in German about air quality
 
-TBA
+This dataset consists of 2,948 georeferenced tweets in the German language, which concern the topic of air quality and have been retrieved with the Twitter Standard Streaming API. The tweets have been posted from September 6, 2021 to February 16, 2022 (near six months) and contain air-quality-related keywords in their text (the complete list of keywords can be seen in the table below). The provided geoinformation has been extracted from the tweets' text with a state-of-the-art NER implementation that is based on the XLM-RoBERTa (XLM-R) language model, while OpenStreetMap API has been used for retrieving the coordinates of each detected location.
+
+|German keywords about air quality|
+| --------- |
+|Luftqualität|
+|Städtische Luftverschmutzung|
+|Luftschadstoff|
+|schlechte Luft|
+|gesunde Luft|
+|Feinstaub|
+|PM2,5|
+|PM10|
+|Feinstaubemission|
+|Ozon|
+|Ο3 Verschmutzung|
+|Ο3 Belastung|
+|Ο3 Umweltbelastung|
+|O3 Schadstoff|
+|Schwefeldioxid|
+|SO2 Verschmutzung|
+|SO2 Belastung|
+|SO2 Umweltbelastung|
+|SO2 Schadstoff|
+|Kohlenmonoxid|
+|CO Verschmutzung|
+|CO Belastung|
+|CO Umweltbelastung|
+|CO Schadstoff|
+|Stickstoffdioxid|
+|NO2 Verschmutzung|
+|NO2 Belastung|
+|NO2 Umweltbelastung|
+|NO2 Schadstoff|
 
 ## Data Organization
 
