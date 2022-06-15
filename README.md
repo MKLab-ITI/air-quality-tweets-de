@@ -52,7 +52,7 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial In
 
 ## How to Cite
 
-S. Andreadis, M. Elias, T. Mavropoulos, C. Papadopoulos, N. Pantelidis, I. Gialampoukidis, and I. Kompatsiaris, "SPARQL querying for validating the usage of automatically georeferenced social media data as human sensors for air quality", 2022 IEEE 14th Image, Video, and Multidimensional Signal  Processing Workshop (IVMSP 2022), 26-29 June 2022, Nafplio, Greece (accepted for publication).
+S. Andreadis, M. Elias, T. Mavropoulos, C. Papadopoulos, N. Pantelidis, I. Gialampoukidis, S. Vrochidis and I. Kompatsiaris, "SPARQL querying for validating the usage of automatically georeferenced social media data as human sensors for air quality", 2022 IEEE 14th Image, Video, and Multidimensional Signal  Processing Workshop (IVMSP 2022), 26-29 June 2022, Nafplio, Greece (accepted for publication).
 
 BibTeX:
 
