@@ -56,7 +56,14 @@ S. Andreadis, M. Elias, T. Mavropoulos, C. Papadopoulos, N. Pantelidis, I. Giala
 
 BibTeX:
 
-    TBA
+    @inproceedings{andreadis2022sparql,
+    title={SPARQL querying for validating the usage of automatically georeferenced social media data as human sensors for air quality},
+    author={Andreadis, Stelios and Mavropoulos, Thanassis and Pantelidis, Nick and Vrochidis, Stefanos and Elias, Mirette and Papadopoulos, Charis and Gialampoukidis, Ilias and Kompatsiaris, Ioannis},
+    booktitle={2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP)},
+    pages={1--5},
+    year={2022},
+    organization={IEEE}
+    }
 
 ## Contact
 
